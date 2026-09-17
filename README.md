@@ -119,7 +119,7 @@ pnpm -v
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/shopless.git
+   git clone https://github.com/z3i0/shopless.git
    cd shopless
    ```
 
@@ -165,6 +165,16 @@ You can log in to test orders, account management, and profile features using th
 
 ---
 
-## 📄 License
+## 📄 License & Credits
 
-This project is open-source and available under the [MIT License](LICENSE). Built with ❤️ for modern web lovers.
+This project is open-source and proudly distributed under the [MIT License](LICENSE).
+
+<br />
+
+<div align="center">
+
+  Designed & crafted with ❤️ and care by **[Ziad](https://github.com/z3i0)**
+
+  *Dedicated to building clean, accessible, and delight-driven web experiences.*
+
+</div>
